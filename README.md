@@ -1,6 +1,6 @@
 ### Hi there, I'm [Ankit Maniya] 👋
 
-I am a 2nd year PG candidate at [Conestoga College](https://www.conestogac.on.ca), Australia. Apart from that I am full stack developer and contributing to open source.
+I am a 2nd year PG candidate at [Conestoga College](https://www.conestogac.on.ca), Canada. Apart from that I am full stack developer and contributing to open source.
 
 ## Skills:
 
@@ -37,12 +37,10 @@ I am a 2nd year PG candidate at [Conestoga College](https://www.conestogac.on.ca
 
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](https://www.kaggle.com/themlphdstudent)
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://durgeshsamariya.github.io)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/themlphdstudent) 
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/durgeshsamariya/)
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@themlphdstudent)
-[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/themlphdstudent)
+[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://github.com/web-rockcodes)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/rock.codes) 
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/rock.codes/)
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/rock.codes)
 </p>
 
 <!--
