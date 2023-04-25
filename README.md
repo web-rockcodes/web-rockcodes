@@ -1,4 +1,4 @@
-### Hi there, I'm [Ankit Maniya] 👋
+### Hi there, I'm Rock 👋
 
 I am a 2nd year PG candidate at [Conestoga College](https://www.conestogac.on.ca), Canada. Apart from that I am full stack developer and contributing to open source.
 
